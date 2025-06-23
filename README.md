@@ -3,7 +3,7 @@
 
 # Crossing
 
-Animal Crossing-like fishing game for teaching Unity!
+Template for the Summer 2025 SFU Unity Workshop!
 
 ## Assets Used
 
